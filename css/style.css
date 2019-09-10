@@ -71,10 +71,11 @@ article figure {
   float: right;
 }
 article figcaption {
-  font-size: 18px;
-  font-weight: 200;
+  color: #888;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 100;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-
 }
 .pagination {
   margin-top: 2em;
